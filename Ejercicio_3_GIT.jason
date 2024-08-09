@@ -1,0 +1,14 @@
+{
+	"users": {
+	{
+		"name": "Computador",
+		"Lastname": "Lenovo"
+	},
+
+	{
+		"name": "Celular",
+		"Lastname": "Samsung"
+	},
+	}
+
+}
