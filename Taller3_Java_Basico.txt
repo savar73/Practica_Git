@@ -1,4 +1,4 @@
-REPOSITORIO: 
+REPOSITORIO: https://github.com/savar73/Practica_Git/blob/main/Taller3_Java_Basico.txt
 
 
 import java.util.Scanner;
